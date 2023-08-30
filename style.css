@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 html {
@@ -301,6 +301,10 @@ section {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+}
+
+.text-container{
+  font-size: 1.2rem;
 }
 
 .section-container {
